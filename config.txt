@@ -1,0 +1,5 @@
+token=NjEzODc1ODk4NDUzNTkwMDU3.XV3SpA.r2AXMHPLqQul_I2PTvj1B6uixls
+owner=545672483836264448
+prefix=Au
+stayinchannel=true
+songinstatus=false 
